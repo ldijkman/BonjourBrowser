@@ -1,3 +1,5 @@
+forked from wellenvogel/BonjourBrowser
+
 # BonjourBrowser
 Android app to browse bonjour (zeroconf, avahi) services for http and launch a browser on found services.
 
@@ -19,3 +21,5 @@ etcetera
 would be nice / handy if this app also could give easy network info
 
 wifiroutername ip address gateway subnetmask 
+
+forked from wellenvogel/BonjourBrowser
